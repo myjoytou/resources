@@ -625,7 +625,8 @@
 ## <a name="mac_things"></a> mac_things
   *  [Setup Ruby On Rails on macOS 10.12 Sierra - GoRails](https://gorails.com/setup/osx/10.12-sierra)
 
-## <a name="ruby"></a> ruby
+## <a name="ruby"></a> Ruby
+  *  [Writing a microservice in Ruby](http://coderascal.com/ruby/writing-a-microservice-in-ruby/)
   *  [Ruby Inside: The Ruby Blog](http://www.rubyinside.com/)
   *  [RubyFlow](http://www.rubyflow.com/)
   *  [Clever Algorithms: A Free Book of Nature-Inspired Ruby Recipes](http://www.rubyinside.com/clever-algorithms-a-free-book-of-nature-inspired-ruby-recipes-4227.html)
