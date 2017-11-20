@@ -1,8 +1,8 @@
-# Some useful links
-  * [Courses](#Courses)
+# Courses
   * [Todos](#todos)
+  * [Podcasts](#Podcast)
+  * [Algorithm](#Algorithm)
 
-# <a name="Courses"></a> Courses
 
 ## <a name="Security"></a> Security
   *  [Offensive Computer Security Home Page (CIS 4930 / CIS 5930) Spring 2014](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
@@ -16,10 +16,13 @@
 ## <a name="Books"></a> Books
   *  [Programming books you might want to consider reading](http://danluu.com/programming-books/)
 
+<!-- {{{ -->
 ## <a name="Podcast"></a> Podcast
   *  [The Ultimate List Of Developer Podcasts - Simple Programmer](https://simpleprogrammer.com/2014/03/10/ultimate-list-developer-podcasts/)
   *  [15 Top-Notch Podcasts for Programmers &amp; Software Developers](http://www.makeuseof.com/tag/15-top-notch-podcasts-programmers-software-developers/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Algorithm"></a> Algorithm
   *  [Algorithm Book](http://web.archive.org/web/20130411210319/http://www.cs.berkeley.edu/~vazirani/algorithms.html)
   *  [String Manipulation in Python](http://www.pythonforbeginners.com/basics/string-manipulation-in-python)
@@ -55,7 +58,9 @@
   *  [Introduction to Algorithms study group](http://clrs.skanev.com/)
   *  [AlgoWiki](http://eulercoder.me/AlgoWiki/)
   *  [Algorithm Tutorials](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=dynProg)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Blogs"></a> Blogs
   *  [CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
   *  [CSE Blog - quant, math, computer science puzzles: EasyPuzzles](http://www.cseblog.com/search/label/EasyPuzzles)
@@ -77,13 +82,17 @@
   *  [Programming Praxis | A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer](https://programmingpraxis.com/?blogsub=confirming#subscribe-blog)
   *  [Coding Horror](http://blog.codinghorror.com/)
   *  [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="DataBase"></a> DataBase
   *  [Database Design - Introduction](http://www.tomjewett.com/dbdesign/dbdesign.php)
   *  [SQLZOO](http://sqlzoo.net/wiki/Main_Page)
   *  [MySQL Tutorial](http://www.techonthenet.com/mysql/index.php)
   *  [SQL exercises](http://sql-ex.ru/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Design Pattern"></a> Design Pattern
   *  [The Pragmatic Bookshelf | Welcome, Pragmatic Programmer!](https://pragprog.com/the-pragmatic-programmer)
   *  [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
@@ -92,7 +101,9 @@
   *  [Clean, high quality code: a guide on how to become a better programmer - Website design and development blog | digital agency blog](https://www.butterfly.com.au/thinking/blog/entry/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer)
   *  [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
   *  [OpenLibra | GoF Design Patterns](https://openlibra.com/en/book/gof-design-patterns)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Git"></a> Git
   *  [Git - Book](https://git-scm.com/book/en/v2)
   *  [Advanced Git Tutorials Overview | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/advanced-overview)
@@ -101,7 +112,9 @@
   *  [git - .gitignore - ignore any &#39;bin&#39; directory - Stack Overflow](https://stackoverflow.com/questions/1470572/gitignore-ignore-any-bin-directory)
   *  [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
   *  [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+<!-- }}}  -->
 
+<!-- {{{ -->
 ## <a name="Imp-Questions"></a> Imp-Questions
   *  [How do I become a data scientist? - Quora](http://www.quora.com/How-do-I-become-a-data-scientist)
   *  [(3) What are some useful computer related technical skills I can learn within a day? - Quora](http://www.quora.com/What-are-some-useful-computer-related-technical-skills-I-can-learn-within-a-day)
@@ -133,7 +146,9 @@
   *  [Data Structures Interview Questions | CareerCup](http://www.careercup.com/page?pid=data-structures-interview-questions)
   *  [How do I become a data scientist? - Quora](https://www.quora.com/How-do-I-become-a-data-scientist)
   *  [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Interview"></a> Interview
   *  [andreis/interview](https://github.com/andreis/interview)
   *  [ashayraut.files.wordpress.com/2014/05/interview-preparation-best-100-ashay-raut.pdf](http://ashayraut.files.wordpress.com/2014/05/interview-preparation-best-100-ashay-raut.pdf)
@@ -163,7 +178,9 @@
   *  [Programming and Algorithms: 700 problems to understand you complete algorithmic programming.](http://praveendhinwacoding.blogspot.in/2013/06/700-problems-to-understand-you-complete.html)
   *  [How you can land a 6-figure job In tech with no connections — tips that got me interviews and…](https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4#.sp2uw15ks)
   *  [Choosing a Programming Language for Interviews &amp; Jobs](http://blog.codingforinterviews.com/best-programming-language-jobs/)
+<!-- }}}  -->
 
+<!-- {{{ -->
 ## <a name="Maths"></a> Maths
   *  [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers · GitHub](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
   *  [CK-12 Probability and Statistics - Advanced (Second Edition) | CK-12 Foundation](http://www.ck12.org/book/CK-12-Probability-and-Statistics-Advanced-Second-Edition/)
@@ -183,32 +200,41 @@
   *  [Gowers&#39;s Weblog | Mathematics related discussions](https://gowers.wordpress.com/)
   *  [integration - How can I solve $8n^2 = 64n\,\log_2(n)$ - Mathematics Stack Exchange](http://math.stackexchange.com/questions/110868/how-can-i-solve-8n2-64n-log-2n)
   *  [Math Run - Mathgame - how fast are your Math skills? A simple Math Training Game for everyone](http://mathrun.net/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Networking"></a> Networking
   *  [Computer Networks | Set 1 - GeeksforGeeks](http://www.geeksforgeeks.org/computer-networks-set-1/)
   *  [Computer Networking - Quora](http://www.quora.com/Computer-Networking)
   *  [CISCO Placement Papers Previous Year CISCO Question Paper | All Entrance Exam Papers](http://allentrancepapersforyou.blogspot.in/2011/01/cisco-placement-papers-previous-year.html#.U_HtXfnoiJk)
   *  [Elements of Computer Networking: An Integrated Approach (Concepts, Pr…](http://www.slideshare.net/careermonk/elements-31605825)
-      *  [What exactly happens when you browse a website in your browser? - Super User](http://superuser.com/questions/31468/what-exactly-happens-when-you-browse-a-website-in-your-browser)
-      *  [What happens when you type a URL in browser | EduSagar](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
-      *  [ip - How to divide a network into eleven subnets - Stack Overflow](http://stackoverflow.com/questions/19191608/how-to-divide-a-network-into-eleven-subnets/)
-      *  [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
-      *  [Networking Tutorials](http://www.tutorialspoint.com/listtutorials/networking/1)
-      *  [Application Protocols](http://www.tutorialspoint.com/data_communication_computer_network/application_protocols.htm)
-      *  [Tutorial 2 Packet Switching | Internetworking with TCP/IP (2014)](https://open.hpi.de/courses/internetworking2014/items/5qlxswKHtEhpHpPutc59Os)
-      *  [The TCP/IP Guide - Table Of Contents](http://www.tcpipguide.com/free/t_toc.htm)
-      *  [Beej&#39;s Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+    *  [What exactly happens when you browse a website in your browser? - Super User](http://superuser.com/questions/31468/what-exactly-happens-when-you-browse-a-website-in-your-browser)
+    *  [What happens when you type a URL in browser | EduSagar](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
+    *  [ip - How to divide a network into eleven subnets - Stack Overflow](http://stackoverflow.com/questions/19191608/how-to-divide-a-network-into-eleven-subnets/)
+    *  [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
+    *  [Networking Tutorials](http://www.tutorialspoint.com/listtutorials/networking/1)
+    *  [Application Protocols](http://www.tutorialspoint.com/data_communication_computer_network/application_protocols.htm)
+    *  [Tutorial 2 Packet Switching | Internetworking with TCP/IP (2014)](https://open.hpi.de/courses/internetworking2014/items/5qlxswKHtEhpHpPutc59Os)
+    *  [The TCP/IP Guide - Table Of Contents](http://www.tcpipguide.com/free/t_toc.htm)
+    *  [Beej&#39;s Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="OPERATING SYSTEM"></a> OPERATING SYSTEM
-      *  [1000 Operating System MCQs for Freshers &amp; Experienced - Sanfoundry](http://www.sanfoundry.com/operating-system-questions-answers/)
-      *  [Operating systems Archives - GeeksforGeeks](http://www.geeksforgeeks.org/tag/operating-systems/)
-      *  [Determine Page Table size for Virtual Memory - Stack Overflow](http://stackoverflow.com/questions/4029838/determine-page-table-size-for-virtual-memory)
-      *  [CSE 30341 Operating Systems video lectures, Surendar Chandra of Other](http://freevideolectures.com/Course/2653/CSE-30341-Operating-Systems)
-      *  [Bran&#39;s Kernel Development Tutorial](http://www.osdever.net/bkerndev/Docs/title.htm)
-      *  [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-      *  [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
-      *  [Computer Science 162, 001 - Spring 2015 - YouTube](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
-      *  [Computer Science 162, 001 - Spring 2015 : Free Movies : Download &amp; Streaming : Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+* something
+
+  *  [1000 Operating System MCQs for Freshers & Experienced - Sanfoundry](http://www.sanfoundry.com/operating-system-questions-answers/)
+  *  [Operating systems Archives - GeeksforGeeks](http://www.geeksforgeeks.org/tag/operating-systems/)
+  *  [Determine Page Table size for Virtual Memory - Stack Overflow](http://stackoverflow.com/questions/4029838/determine-page-table-size-for-virtual-memory)
+  *  [CSE 30341 Operating Systems video lectures, Surendar Chandra of Other](http://freevideolectures.com/Course/2653/CSE-30341-Operating-Systems)
+  *  [Bran&#39;s Kernel Development Tutorial](http://www.osdever.net/bkerndev/Docs/title.htm)
+  *  [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+  *  [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+  *  [Computer Science 162, 001 - Spring 2015 - YouTube](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+  *  [Computer Science 162, 001 - Spring 2015 : Free Movies : Download &amp; Streaming : Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+<!-- }}} -->
+
+<!-- {{{ -->
 #### Unix
   *  [Unix - Useful Commands](http://www.tutorialspoint.com/unix/unix-useful-commands.htm)
   *  [How To Manually Install Oracle Java on a Debian or Ubuntu VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-manually-install-oracle-java-on-a-debian-or-ubuntu-vps)
@@ -225,13 +251,16 @@
   *  [Download Advanced Linux Programming](http://advancedlinuxprogramming.com/alp-folder/)
   *  [memory management - Calculating Page Table Size - Stack Overflow](http://stackoverflow.com/questions/16323890/calculating-page-table-size)
   *  [Ubuntu : How To Fix Over Heating of Laptops with Switchable Graphics](http://techhamlet.com/2012/05/ubuntu-how-to-fix-over-heating-of-laptops-with-switchable-graphics/)
+<!-- }}} -->
 
-
+<!-- {{{ -->
 ## <a name="Paid courses"></a> Paid courses
   *  [CSS Animations - Code School](https://www.codeschool.com/courses/adventures-in-web-animations)
   *  [Animation Story Telling with HTML5 &amp; CSS3 by Rachel Nabors](https://frontendmasters.com/courses/animation-storytelling-html5-css3/)
   *  [Lynda Foundations of Programming](http://tparser.org/Lynda-Foundations-of-Programming)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Programming"></a> Programming
   *  [CodeEval - Coding Challenges for the World&#39;s Best Developers](https://www.codeeval.com/)
   *  [(1) What are the best resources (sites, books or tutorials) for learning programming? - Quora](http://www.quora.com/What-are-the-best-resources-sites-books-or-tutorials-for-learning-programming)
@@ -292,8 +321,9 @@
   *  [A2 Online Judge](https://a2oj.com/Category.jsp?ID=25)
   *  [Must Reads from hack.summit() 2016 — Medium](https://medium.com/@hacksummit/must-reads-from-hack-summit-2016-9b63acdc308a#.ivhhkm9t0)
   *  [Use Vim like an IDE - Vim Tips Wiki](http://vim.wikia.com/wiki/Use_Vim_like_an_IDE)
+<!-- }}} -->
 
-
+<!-- {{{ -->
 ## <a name="Video courses"></a> Video courses
   *  [ CS50x Courseware | edX](https://courses.edx.org/courses/HarvardX/CS50x/2014_T1/courseware/43d165ac1d974f20a55585da76d39277/e756f29f611141889db4ee70027ef7e9/)
   *  [Classroom - Udacity](https://www.udacity.com/course/viewer#!/c-cs101/l-48299949/m-48698544)
@@ -323,7 +353,9 @@
   *  [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#)
   *  [Indian Idol Sandeep Acharya - YouTube](https://www.youtube.com/watch?v=bkeJPeHJefk)
   *  [CS75.tv](http://cs75.tv/2012/summer/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="WebDev"></a> WebDev
   *  [Bento | Learn to code the way professional programmers do](https://www.bento.io/tracks)
   *  [DevDocs](http://devdocs.io/)
@@ -394,7 +426,7 @@
   *  [Learn Code The Hard Way -- Books And Courses To Learn To Code](http://learncodethehardway.org/)
   *  [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
   *  [LinuxCommand.org: Learning the shell.](http://linuxcommand.org/lc3_learning_the_shell.php)
-  *  [List of Bash online-tutorials [Bash Hackers Wiki]](http://wiki.bash-hackers.org/scripting/tutoriallist)
+  *  [List of Bash online-tutorials Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/tutoriallist)
   *  [Practice and Learn - Google Code Jam](https://code.google.com/codejam/contests.html)
   *  [Python Programming - Wikibooks, open books for an open world](http://en.wikibooks.org/wiki/Python_Programming)
   *  [Python Tutorial: Python Online Course](http://www.python-course.eu/course.php)
@@ -421,6 +453,9 @@
   *  [How to C (as of 2016)](https://matt.sh/howto-c)
   *  [Computer Science Resources - Google Sheets](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
   *  [OpenLibra | The Free online bookstore: free PDF ebooks and books.](https://openlibra.com/en/)
+<!-- }}} -->
+
+<!-- {{{ -->
 ## <a name="WebDesign"></a> WebDesign
   *  [10 Best Free Online Courses for Web Designers | JUST™ Creative](http://justcreative.com/2015/07/02/10-best-free-online-courses-for-web-designers/)
   *  [SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby &amp; Responsive Design](http://www.sitepoint.com/)
@@ -436,7 +471,9 @@
   *  [Web Design Practices | Home](http://webdesignpractices.com/)
   *  [UI-Patterns.com](http://ui-patterns.com/)
   *  [Subtle Patterns | Free textures for your next web project.](http://subtlepatterns.com/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="ROR"></a> ROR
   *  [Rails Best Practices - Rails Best Practices](http://rails-bestpractices.com/)
   *  [Chapter 1: From zero to deploy | Ruby on Rails Tutorial (3rd Ed.) | Softcover.io](https://www.railstutorial.org/book/beginning)
@@ -448,13 +485,18 @@
   *  [Ruby on Rails API](http://api.rubyonrails.org/)
   *  [AngularJS with Ruby on Rails: Zero to deployment in less than 10,000 words](http://angular-rails.com/bootstrap.html)
 
+<!-- }}} -->
+
+<!-- {{{ -->
 ## <a name="Linux"></a> Linux
   *  [Linux by Paul Reiber | ZEEF](https://linux.zeef.com/paul.reiber)
   *  [The Linux System Administrator&#39;s Guide](http://www.tldp.org/LDP/sag/html/index.html)
   *  [The Linux File System Structure Explained - LinuxAndUbuntu](http://www.linuxandubuntu.com/home/the-linux-file-system-structure-explained)
   *  [An A-Z Index of the Bash command line | SS64.com](http://ss64.com/bash/index.html)
-
   *  [Shahi Kamanahalli home delivery in Bangalore, 560043](https://www.foodpanda.in/restaurant/r6by/shahi-kamanahalli)
+<!-- }}} -->
+
+<!-- {{{ -->
 ## <a name="Python"></a> Python
   *  [TimeComplexity - Python Wiki](https://wiki.python.org/moin/TimeComplexity)
   *  [sorting - Sort a Python dictionary by value - Stack Overflow](http://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value)
@@ -466,7 +508,9 @@
   *  [Working with Python subprocess - Shells, Processes, Streams, Pipes, Redirects and More](http://jimmyg.org/blog/2009/working-with-python-subprocess.html#what-happens-when-you-execute-a-command)
   *  [PyQt5 Reference Guide — PyQt 5.8.2 Reference Guide](http://pyqt.sourceforge.net/Docs/PyQt5/)
   *  [Full Stack Python](http://www.fullstackpython.com/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Project"></a> Project
   *  [(4) What Are the Best Face Detection APIs? - Quora](http://www.quora.com/What-are-the-best-face-detection-APIs)
   *  [Face Recognition with Python, in under 25 lines of code - Real Python](https://realpython.com/blog/python/face-recognition-with-python/)
@@ -511,6 +555,9 @@
   *  [How to Install Ubuntu Software Center - Linux - OS Specific tutorials - Tutorials - Fearless Assassins](http://fearless-assassins.com/tutorials/article/302-how-to-install-ubuntu-software-center/)
   *  [Shayari](http://randhawa.wen9.com/pages/Sher-O-Shayari/motivational_shayari/motivational_shayari4.html)
 
+<!-- }}}  -->
+
+<!-- {{{ -->
 ## <a name="CPP"></a> CPP
   *  [Linux Tutorial: - C++ String Class Tutorial](http://www.yolinux.com/TUTORIALS/LinuxTutorialC++StringClass.html)
   *  [Learn C++](http://www.learncpp.com/)
@@ -532,7 +579,9 @@
   *  [GoingNative 2013 | Channel 9](https://channel9.msdn.com/Events/GoingNative/2013)
   *  [C++ | Tags | Channel 9](https://channel9.msdn.com/Tags/c++)
   *  [PLF List - CppCast](http://cppcast.com/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="Java"></a> Java
   *  [ONJava.com](http://www.onjava.com/)
   *  [IBM developerWorks : Java development overview](https://www.ibm.com/developerworks/java/)
@@ -548,8 +597,9 @@
   *  [Top 10 Websites for Advanced Level Java Developers](http://www.programcreek.com/2013/09/top-10-websites-for-advanced-level-java-developers/)
   *  [Java Regex Explanation - Stack Overflow](http://stackoverflow.com/questions/12500284/java-regex-explanation)
   *  [java - How to choose between whitespace pattern? - Stack Overflow](http://stackoverflow.com/questions/9291474/how-to-choose-between-whitespace-pattern)
+<!-- }}} -->
 
-
+<!-- {{{ -->
 # <a name="Hackathon"></a> Hackathon
   *  [Machine Learning and Data Mining: 10 Introduction to Classification](http://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-10-introduction-to-classification)
   *  [http://www.ibm.com/developerworks/library/bd-javaweka/bd-javaweka-pdf.pdf](http://www.ibm.com/developerworks/library/bd-javaweka/bd-javaweka-pdf.pdf)
@@ -559,22 +609,30 @@
   *  [Training the Stanford NER Classifier to Study Nineteenth-Century American Fiction | The Wilkens Group](https://blogs.nd.edu/wilkens-group/2013/10/15/training-the-stanford-ner-classifier-to-study-nineteenth-century-american-fiction/)
   *  [nlp - How do I use python interface of Stanford NER(named entity recogniser)? - Stack Overflow](http://stackoverflow.com/questions/15722802/how-do-i-use-python-interface-of-stanford-nernamed-entity-recogniser)
   *  [Stanford NER for Python | Text Mining Online | Text Analysis Online | Text Processing Online](http://textminingonline.com/tag/stanford-ner-for-python)
+<!-- }}} -->
 
+<!-- {{{ -->
 # <a name="Innovation"></a> Innovation
   *  [Discover and get early access to tomorrow&#39;s startups - BetaList](http://betalist.com/)
+<!-- }}} -->
 
+<!-- {{{ -->
 # <a name="MakingNewStuffs"></a> MakingNewStuffs
   *  [python - How do I get started creating an Ubuntu Desktop App? - Ask Ubuntu](http://askubuntu.com/questions/49849/how-do-i-get-started-creating-an-ubuntu-desktop-app)
   *  [Python script as linux service/daemon - Stack Overflow](http://stackoverflow.com/questions/4705564/python-script-as-linux-service-daemon)
   *  [Quickly - Ubuntu Wiki](https://wiki.ubuntu.com/Quickly)
   *  [Kivy: Cross-platform Python Framework for NUI Development](http://kivy.org/#download)
   *  [A first App — Kivy 1.9.1-dev documentation](http://kivy.org/docs/gettingstarted/first_app.html)
-
   *  [Fundamentals](http://algs4.cs.princeton.edu/10fundamentals/)
+<!-- }}} -->
+
+<!-- {{{ -->
 # <a name="PartTime"></a> PartTime
   *  [Leapforce Leapforce At Home Current Opportunities](https://www.leapforceathome.com/qrp/public/jobs/list?uref=4e28cdafd2a93896c5db7479e28b31ba)
   *  [Top 5 Websites For Freelance Jobs Without Investment](http://www.bloggerzarena.com/top-5-websites-for-freelance-jobs/?utm_source=Quora&utm_medium=Answers+5000-10000&utm_campaign=5000-10000)
+<!-- }}} -->
 
+<!-- {{{ -->
 # <a name="btt"></a> btt
 ## <a name="terminal_hacks"></a> terminal_hacks
   *  [My favourite Zsh features](https://code.joejag.com/2014/why-zsh.html)
@@ -586,6 +644,7 @@
 ## <a name="software_engineering"></a> software_engineering
   *  [ArticleS.UncleBob.PrinciplesOfOod](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 
+<!-- {{{ -->
 ## <a name="cpp"></a> cpp
   *  [Linux Tutorial: - C++ String Class Tutorial](http://www.yolinux.com/TUTORIALS/LinuxTutorialC++StringClass.html)
   *  [Learn C++](http://www.learncpp.com/)
@@ -607,7 +666,9 @@
   *  [GoingNative 2013 | Channel 9](https://channel9.msdn.com/Events/GoingNative/2013)
   *  [C++ | Tags | Channel 9](https://channel9.msdn.com/Tags/c++)
   *  [PLF List - CppCast](http://cppcast.com/)
+<!-- }}} -->
 
+<!-- {{{ -->
 ## <a name="vim"></a> vim
   *  [Use Vim like an IDE - Vim Tips Wiki](http://vim.wikia.com/wiki/Use_Vim_like_an_IDE)
   *  [Using marks | Vim Tips Wiki | FANDOM powered by Wikia](http://vim.wikia.com/wiki/Using_marks)
@@ -621,10 +682,13 @@
   *  [Get the name of the current file | Vim Tips Wiki | FANDOM powered by Wikia](http://vim.wikia.com/wiki/Get_the_name_of_the_current_file)
   *  [Vim Tips Wiki | FANDOM powered by Wikia](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
   *  [Vim 101: CTRL-R – usevim – Medium](https://medium.com/usevim/vim-101-ctrl-r-c9b9b6812f4c)
+<!-- }}} -->
 
 ## <a name="mac_things"></a> mac_things
   *  [Setup Ruby On Rails on macOS 10.12 Sierra - GoRails](https://gorails.com/setup/osx/10.12-sierra)
 
+
+<!-- {{{ -->
 ## <a name="ruby"></a> Ruby
   *  [Writing a microservice in Ruby](http://coderascal.com/ruby/writing-a-microservice-in-ruby/)
   *  [Ruby Inside: The Ruby Blog](http://www.rubyinside.com/)
@@ -639,11 +703,12 @@
   *  [How I finally Learnt Ruby on Rails – Life Hacks for Business – Medium](https://medium.com/life-hacks-for-business/how-i-finally-learnt-ruby-on-rails-d2c455e7b53)
   *  [7 Patterns to Refactor Fat ActiveRecord Models - Code Climate Blog](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
   *  [How To Keep Your Controllers Thin with Form Objects | Duck Type Labs](https://ducktypelabs.com/how-to-keep-your-controllers-thin-with-form-objects/)
-
   *  [staging site](http://dev.hydra.ehqstag.com/)
   *  [25:00 pomodoro](https://pomodoro-tracker.com/#)
   *  [Register Your Product](https://lyveint.seagate.com/signup)
   *  [JDK 8 Installation for OS X](http://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
+<!-- }}} -->
+
 ## <a name="pod_casts"></a> pod_casts
   *  [Episodes FLOSS weekly](https://twit.tv/episodes?filter[shows]=1639)
 
@@ -657,9 +722,11 @@
   *  [A Software Developer’s Reading List | Steve Wedig&#39;s Notes](https://stevewedig.com/2014/02/03/software-developers-reading-list/)
   *  [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
+<!-- }}} -->
 
-  *  [Watch Naruto Shippuuden Online | English Dubbed-Subbed Episodes](http://www.animefreak.tv/watch/naruto-shippuuden-episodes-english-subbed-dubbed)
+<!-- {{{ -->
 # <a name="SF"></a> SF
+  *  [Watch Naruto Shippuuden Online | English Dubbed-Subbed Episodes](http://www.animefreak.tv/watch/naruto-shippuuden-episodes-english-subbed-dubbed)
   *  [Social Frontier | AngelList](https://angel.co/social-frontier?ref=roleconf&type=employee&utm_campaign=tag_notification_employee&utm_medium=email&utm_source=tag_notification&utm_term=social-frontier)
   *  [SF Login](http://40.84.190.101/users/sign_in)
   *  [Handling Errors in an API Application the Rails Way](https://blog.rebased.pl/2016/11/07/api-error-handling.html)
@@ -721,10 +788,16 @@
   *  [Online Latex Equation Editor - Sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor)
   *  [Long Text to Image Converter - TwitHelper](https://twithelper.com/long-text-to-image-converter)
   *  [Ruby Mixins &amp; ActiveSupport::Concern — Appfolio Engineering](http://engineering.appfolio.com/appfolio-engineering/2013/06/17/ruby-mixins-activesupportconcern)
+<!-- }}}  -->
 
+<!-- {{{ -->
 # <a name="todos"></a> TODO's
   - [ ] Read any good database design book for thorough understanding of the pieces
+  - [ ] Understand what is Rake
+  - [ ] What are sprockets and how they are helpful in rails
+  - [ ] Understand how rails render view and JavaScript files when a routes is accessed
   - [ ] Create a simple Database management system using either C or CPP
   - [ ] Create a web server using C or CPP
   - [ ] Create an application server for ruby
   - [ ] Knowing advanced stuffs in Ruby and Rails
+<!-- }}} -->
