@@ -795,6 +795,7 @@
 
 <!-- {{{ -->
 # <a name="todos"></a> TODO's
+  - [ ] Learn about git hooks and how we can have a pre commit hook, which will remove all the white spaces before commiting
   - [ ] Read any good database design book for thorough understanding of the pieces
   - [ ] Understand what is Rake
   - [ ] What are sprockets and how they are helpful in rails
