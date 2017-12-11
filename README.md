@@ -795,15 +795,15 @@
 
 <!-- {{{ -->
 # <a name="todos"></a> TODO's
-  - [ ] Make a website which will have vim like editor or any editor and allow these todos to be changed from any computer as long as you can login to your webapp.
-  - [ ] At some point of time this todo in markdown will not scale and it is also really hard to write here. So think of any cross platform app, like a React Native app for android, in which you can just add a todo and it will make changes to your github repo and the new todo will be reflected
-  - [x] Learn about git hooks and how we can have a pre commit hook, which will remove all the white spaces before commiting
-  - [ ] Read any good database design book for thorough understanding of the pieces
-  - [ ] Understand what is Rake
-  - [ ] What are sprockets and how they are helpful in rails
-  - [ ] Understand how rails render view and JavaScript files when a routes is accessed
-  - [ ] Create a simple Database management system using either C or CPP
-  - [ ] Create a web server using C or CPP
-  - [ ] Create an application server for ruby
-  - [ ] Knowing advanced stuffs in Ruby and Rails
+- [ ] Make a website which will have vim like editor or any editor and allow these todos to be changed from any computer as long as you can login to your webapp.
+- [ ] At some point of time this todo in markdown will not scale and it is also really hard to write here. So think of any cross platform app, like a React Native app for android, in which you can just add a todo and it will make changes to your github repo and the new todo will be reflected
+- [x] Learn about git hooks and how we can have a pre commit hook, which will remove all the white spaces before commiting
+- [ ] Read any good database design book for thorough understanding of the pieces
+- [ ] Understand what is Rake
+- [ ] What are sprockets and how they are helpful in rails
+- [ ] Understand how rails render view and JavaScript files when a routes is accessed
+- [ ] Create a simple Database management system using either C or CPP
+- [ ] Create a web server using C or CPP
+- [ ] Create an application server for ruby
+- [ ] Knowing advanced stuffs in Ruby and Rails
 <!-- }}} -->
