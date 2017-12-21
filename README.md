@@ -795,6 +795,8 @@
 
 <!-- {{{ -->
 # <a name="todos"></a> TODO's
+- [ ] [Read Rebuilding Rails](https://gumroad.com/l/rebuilding_rails) 
+- [ ] [Read Eloquent ruby](https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104)
 - [ ] Make a website which will have vim like editor or any editor and allow these todos to be changed from any computer as long as you can login to your webapp.
 - [ ] At some point of time this todo in markdown will not scale and it is also really hard to write here. So think of any cross platform app, like a React Native app for android, in which you can just add a todo and it will make changes to your github repo and the new todo will be reflected
 - [ ] Learn to make a DNS Server
