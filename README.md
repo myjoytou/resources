@@ -796,6 +796,7 @@
 
 <!-- {{{ -->
 # <a name="todos"></a> TODO's
+- [ ] Read how to build npm packages, using that knowledge learn how create-react-app is working
 - [ ] [Read Rebuilding Rails](https://gumroad.com/l/rebuilding_rails) 
 - [ ] [Read Eloquent ruby](https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104)
 - [ ] Start reading Rails source code
