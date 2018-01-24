@@ -796,6 +796,8 @@
 
 <!-- {{{ -->
 # <a name="todos"></a> TODO's
+- [ ] Read about Security, particularly network Security and **web authentication** using those Security guidelines
+- [ ] Learn about different strategy of caching in web, read about caching provided by rails
 - [ ] How linters work, learn to write linter
 - [ ] Read how to build npm packages, using that knowledge learn how create-react-app is working
 - [ ] [Read Rebuilding Rails](https://gumroad.com/l/rebuilding_rails) 
@@ -808,7 +810,7 @@
 - [ ] Learn to make a neovim plugin in any language[Preferably python, ruby, javascript]
 - [x] Learn about git hooks and how we can have a pre commit hook, which will remove all the white spaces before commiting
 - [ ] Read any good database design book for thorough understanding of the pieces
-- [ ] Understand what is Rake
+- [ ] Understand what is Rack
 - [ ] Learn OS fundamentals
 - [ ] What are sprockets and how they are helpful in rails
 - [ ] Understand how rails render view and JavaScript files when a routes is accessed
