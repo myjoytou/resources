@@ -796,6 +796,7 @@
 
 <!-- {{{ -->
 # <a name="todos"></a> TODO's
+- [ ] How to create a Version control system like GIT
 - [ ] Read about Security, particularly network Security and **web authentication** using those Security guidelines
 - [ ] Learn about different strategy of caching in web, read about caching provided by rails
 - [ ] How linters work, learn to write linter
