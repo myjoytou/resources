@@ -796,6 +796,10 @@
 
 <!-- {{{ -->
 # <a name="todos"></a> TODO's
+- [ ] Build a Job Queue
+- [ ] Build a workflow management system
+- [ ] Build a Object Relational Mapper
+- [ ] Electron App for downloading anything which support web scraping, go to the url, listen for system copy event, and download the data from there using either wget or curl 
 - [ ] How to create a Version control system like GIT
 - [ ] Read about Security, particularly network Security and **web authentication** using those Security guidelines
 - [ ] Learn about different strategy of caching in web, read about caching provided by rails
